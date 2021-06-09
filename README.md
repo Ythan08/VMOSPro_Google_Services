@@ -1,12 +1,19 @@
 # Google Services
 
-Google Services is VMOS Pro Terminal Tool module.
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Google_play_services_logo.svg/160px-Google_play_services_logo.svg.png>
 
-Install or uninstall Google Services on virtual machine
+
+This VMOS Pro Terminal Tool module allows you to install or uninstall Google Play Services on your VM.
+
+Google Play Services is a proprietary background service and API package for Android devices from Google.
+
+Google Play Services is used by almost all Google apps that have system-level powers. All major Android services are controlled by Google Play Services. Without this, apps may not work properly.
 
 # Download
 
-[google-installer.zip](https://www.mediafire.com/file/3muflqhmr6w9ejd/google-installer.zip/file)
+[Google Services Installer](https://www.mediafire.com/file/3muflqhmr6w9ejd/google-installer.zip/file)
+
+[Google Services Un-installer](https://github.com/HuskyDG/VMOSPro_Google_Services/blob/main/google-uninstaller.zip?raw=true)
 
 # Installation
 
