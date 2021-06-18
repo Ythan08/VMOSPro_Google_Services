@@ -17,7 +17,7 @@ Google Play Services is used by almost all Google apps that have system-level po
 
 # Installation
 
-1. Install [VMOS Pro Terminal Tool v1.8](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) if it's not installed!
+1. Install [VMOS Pro Terminal Tool v1.14](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) if it's not installed!
 
 2. Download `google-installer.zip` and import file to VMOS Pro
 
@@ -30,7 +30,7 @@ Google Play Services is used by almost all Google apps that have system-level po
 
 # Un-installation
 
-1. Install [VMOS Pro Terminal Tool v1.8](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) if it's not installed!
+1. Install [VMOS Pro Terminal Tool v1.14](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) if it's not installed!
 
 2. Download `google-unstaller.zip` and import file to VMOS Pro
 
