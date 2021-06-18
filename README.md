@@ -9,11 +9,8 @@ Google Play Services is a proprietary background service and API package for And
 
 Google Play Services is used by almost all Google apps that have system-level powers. All major Android services are controlled by Google Play Services. Without this, apps may not work properly.
 
-# Download
+Download at `Releases` tag.
 
-[Google Services Installer](https://www.mediafire.com/file/3muflqhmr6w9ejd/google-installer.zip/file)
-
-[Google Services Un-installer](https://github.com/HuskyDG/VMOSPro_Google_Services/blob/main/google-uninstaller.zip?raw=true)
 
 # Installation
 
