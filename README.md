@@ -14,4 +14,4 @@ Download at `Releases` tag.
 
 # (Un)Installation
 
-Read [How to install modification zip](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) if it's not installed!
+Read [How to install modification zip](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal#how-to-install-a-module) 
