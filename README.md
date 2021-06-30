@@ -14,10 +14,4 @@ Download at `Releases` tag.
 
 # (Un)Installation
 
-1. Install [VMOS Pro Terminal Tool v1.15](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) if it's not installed!
-
-2. Download `google-installer.zip` and import file to VMOS Pro
-
-3. Place `google-installer.zip` to `/sdcard/toolflash/` direction
-
-4. Open Terminal app, type `tool` to run VMOS Pro Terminal Tool, then type `6` (Enter) and `yes` (Enter) to install module.
+Read [How to install modification zip](https://github.com/HuskyDG/VMOSPro_RootXposed_Terminal) if it's not installed!
